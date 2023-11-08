@@ -58,3 +58,4 @@ frequency_value = calculate_frequency(letters_number)  # Словарь из б�
 
 for letter, frequency in frequency_value.items():
     print(f"{letter}: {frequency:.2f}")
+    
